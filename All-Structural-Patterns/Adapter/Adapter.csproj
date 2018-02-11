@@ -51,7 +51,8 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="Adapter_pattern_UML_diagram.PNG" />
+    <Content Include="Pattern Information.txt" />
+    <Content Include="UML_Diagram.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
