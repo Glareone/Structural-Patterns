@@ -34,6 +34,9 @@ namespace Adapter
             _player.Play();
         }
 
+        /// <summary>
+        /// Dispose implementation
+        /// </summary>
         public void Dispose()
         {
             _player?.Dispose();
