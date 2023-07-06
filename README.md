@@ -15,3 +15,10 @@ Fasade with description: In Progress
 Flyweight with description: [Flyweight](https://github.com/Glareone/Structural-Patterns/tree/master/All-Structural-Patterns/Flyweight)  
 "Object" Adapter with description: [Adapter](https://github.com/Glareone/Structural-Patterns/tree/master/All-Structural-Patterns/Adapter)  
 Proxy with description: [Proxy](https://github.com/Glareone/Structural-Patterns/tree/master/All-Structural-Patterns/Proxy)  
+
+## Specific Patterns
+**Circuit Breaker**
+[Circuit Breaker article from Martin Fowler](https://martinfowler.com/bliki/CircuitBreaker.html)   
+[Recommendations during implementation](https://timross.wordpress.com/2008/02/10/implementing-the-circuit-breaker-pattern-in-c/)  
+Circuit Breaker `CODE IN PROGRESS`
+
